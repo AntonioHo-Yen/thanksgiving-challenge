@@ -21,6 +21,7 @@ To view or run this project locally:
 Clone the repository:
 
    git clone git@github.com:AntonioHo-Yen/thanksgiving-challenge.git
+   
 or
 view on netlify
 
