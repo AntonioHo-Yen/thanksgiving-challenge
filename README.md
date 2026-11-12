@@ -1,6 +1,6 @@
 # Thanksgiving Challenge Landing Page
 
-A responsive, holiday-themed promotional landing page built for a holiday sales and community outreach campaign challenge. Developed as part of the CodingPhase coding challenge.
+A responsive, holiday-themed promotional landing page built for a holiday sales and community outreach campaign challenge.
 
 ## Overview
 This project was built to deliver an engaging user experience for a Thanksgiving seasonal campaign. It features a festive layout designed to drive user engagement, complete with promotional highlights, a retail store locator, and community charity donation components, had to create a color palette and fictitious name for a fictitious brand.
@@ -22,10 +22,6 @@ Clone the repository:
 
    git clone git@github.com:AntonioHo-Yen/thanksgiving-challenge.git
    
-or
-view on netlify
-
-https://americanfoodharvest.netlify.app
 
 Legal Notice
 
